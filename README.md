@@ -23,7 +23,7 @@ This script knows all four.
 ## Install
 
 ```bash
-git clone https://github.com/maggiemchen/tools ~/maggiemchen-tools
+git clone https://github.com/manqianc/tools ~/maggiemchen-tools
 chmod +x ~/maggiemchen-tools/google-oauth-setup/bin/google-oauth-setup
 # optional: symlink onto PATH
 ln -s ~/maggiemchen-tools/google-oauth-setup/bin/google-oauth-setup ~/.local/bin/
